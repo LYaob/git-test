@@ -12,5 +12,7 @@ public class GotTest {
         System.out.println("hello git! hello world!-hot-fix");
         System.out.println("hello git! hello world!master-test");
         System.out.println("hello git! hello world!-hot-fix-test");
+        System.out.println("push test");
     }
 }
+//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
